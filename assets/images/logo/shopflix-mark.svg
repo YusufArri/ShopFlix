@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">ShopFlix</title>
+  <rect width="64" height="64" rx="14" fill="#080a0f"/>
+  <path d="M12 17 37 25 28 34" fill="none" stroke="#2785e8" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="M22 17 47 25 39 34" fill="none" stroke="#2f9d70" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <text x="32" y="52" fill="#e2b64f" font-family="Arial,sans-serif" font-size="33" font-weight="700" text-anchor="middle">S</text>
+</svg>
